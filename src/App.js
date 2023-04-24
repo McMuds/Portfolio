@@ -6,7 +6,10 @@ function App() {
 
 
   return (
-    <Portfolio />
+    <>
+        <h1>Claire Rules</h1>
+        <Portfolio />
+    </>
   );
 }
 
